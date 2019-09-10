@@ -1,0 +1,5 @@
+.gitignore
+azure-pipelines.yml
+karma.conf.js
+README.md
+Dockerfile
